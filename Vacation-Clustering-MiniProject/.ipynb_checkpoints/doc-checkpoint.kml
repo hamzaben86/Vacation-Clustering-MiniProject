@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Nada/Yasmine France Trip</name>
+    <description/>
+    <Style id="icon-1899-006064-nodesc-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-006064-nodesc-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-006064-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-006064-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-006064-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Day 1 [Sunday]</name>
+      <Placemark>
+        <name>Hôtel Princesse Caroline</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.29561709999996,48.8756277,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>French Alliance Paris Ile-De-France</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.32872880000002,48.846361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trocadéro Gardens</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.28928229999997,48.8615963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eiffel Tower</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.29448330000002,48.8583698,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Place du Tertre (Cafe, Food)</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.34080219999998,48.8865032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Basilica of the Sacred Heart of Paris</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.34302279999997,48.8867061,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Louis Vuitton Maison Champs Élysées</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.30037549999997,48.871669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Galeries Lafayette</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.33047940000006,48.8738197,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Printemps Haussmann</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.32779319999997,48.8739771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palais Garnier</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.33176660000004,48.8719343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Louvre Museum</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.33764399999995,48.8606111,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palace of Versailles (Optional)</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.12035539999999,48.8048649,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boat Trip (Bateaux-Mouches)</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.30593739999995,48.8640106,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Disneyland Paris</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.77580790000002,48.8722344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hotel Louison</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.32134459999997,48.845294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Disneyland Paris</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.77580790000002,48.8722344,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Centre Pompidou</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.35224500000004,48.860642,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cathédrale Notre-Dame de Paris</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.34990210000001,48.8529682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luxembourg Gardens [Tu]</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.33716049999998,48.8462217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pont Neuf [Tu]</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.34132520000003,48.85705,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Vallée Village [Wed]</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.78401659999997,48.8534655,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Champs-Élysées</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.30731409999999,48.8657844,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gare Musée d'Orsay]]></name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.32541660000004,48.8605007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sainte-Chapelle de Vincennes</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.43646990000002,48.8423484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Orangerie Museum</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.32267239999999,48.8637884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Marais</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.35880380000003,48.8587029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Musée Rodin</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.31578450000006,48.8553337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saint-Germain-des-Prés</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.33332849999999,48.8537981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Musée Jacquemart-André</name>
+        <styleUrl>#icon-1899-006064-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            2.31053150000002,48.8754479,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
