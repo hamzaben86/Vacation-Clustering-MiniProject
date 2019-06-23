@@ -1,1 +1,1 @@
-# Unsupervised-Learning-Projects
+# Mini Project: Clustering Sights for Vacation Planning
